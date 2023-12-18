@@ -1,7 +1,5 @@
 # front-end-program
 E commerce website front end  using HTML and CSS
-<br>
-<br>
 <h1> HTML portion</h1>
 <br>
 <!DOCTYPE html>
